@@ -13,7 +13,6 @@ color:
     - '#3A6EA5'
     - '#004E98'
 opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc696030-0930-40b8-acc1-823e01da1d80.jpg
+  image: null
 layout_spectrum: 0.017034124583005905
 name: Works
