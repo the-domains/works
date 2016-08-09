@@ -1,14 +1,19 @@
-layout_spectrum: 0.017034124583005905
 typography_spectrum: 0.20829165517352521
+content_rating:
+  adult: false
 color:
   brandStrength: 0.3376363362185657
   lightness: 0.548299899790436
   saturation: 0.8349296320229769
   rhythmicContrast: 0.671192838344723
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc696030-0930-40b8-acc1-823e01da1d80.jpg
+layout_spectrum: 0.017034124583005905
 name: Works
